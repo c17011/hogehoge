@@ -6,4 +6,5 @@ c17011 熊谷将紀
 *　お好み焼きのレシピ  [okonomi.txt](okonomi.txt)
 
 ### リモートリポジトリ
-*　[README.md](READme.md)を作ってみる　　*マークダウンを覚える
+*　[README.md](READme.md)を作ってみる
+*マークダウンを覚える
