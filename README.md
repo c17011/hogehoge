@@ -7,5 +7,5 @@ c17011 熊谷将紀
 
 ### リモートリポジトリ
 
-* [README.md](READme.md)を作ってみる
+* [README.md](README.md)を作ってみる
 * マークダウンを覚える
